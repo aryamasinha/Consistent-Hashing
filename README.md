@@ -1,2 +1,2 @@
-# Consistent-Hashing-
-Implementation of Consistent Hashing algorithm
+# Consistent-Hashing
+Implementation of Consistent Hashing algorithm in Java
